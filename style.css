@@ -1,0 +1,12 @@
+body{
+    background-color: cyan;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+}
+#camera{
+    border:2px solid black;
+    width:350px;
+    height:300px;
+
+}
